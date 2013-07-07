@@ -1,0 +1,7 @@
+[Core]
+Name = Gifr
+Module = Gifr
+
+[Documentation]
+Description = A silly plugin for randomizing animated gifs
+
